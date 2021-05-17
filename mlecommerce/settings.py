@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-pwl@vn#!wcfz#q+pl@4^_-)r!nyd$byn9m9bel=6dt0j6c&!6r'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['mlecommerce.herokuapp.com', '127.0.0.1:8000']
 
