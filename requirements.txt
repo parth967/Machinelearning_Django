@@ -59,4 +59,3 @@ typer==0.3.2
 urllib3==1.26.4
 virtualenv==20.4.6
 wasabi==0.8.2
-WMI==1.5.1
